@@ -1,6 +1,7 @@
 {
     "name": "nymedia/dropbox-sdk",
     "description": "Dropbox SDK for PHP",
+    "abandoned": true,
     "keywords" : [ "dropbox" ],
 
     "license": "MIT",
